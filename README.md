@@ -1,7 +1,8 @@
 ### 👋 Hello! World!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark1016&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### 🌱 I am currently junior developer
-
+<br />
+<br />
 ### ⚡ Skills
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]()
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]()
@@ -12,8 +13,9 @@
 [![PostCss Badge](https://img.shields.io/badge/PostCss-DD3A0A?logo=PostCss&logoColor=white)]()
 [![styledomponents Badge](https://img.shields.io/badge/styled-components-DB7093?logo=styled-components&logoColor=white)]()<br/>
 [![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white)]()
-<br />
 
+<br />
+<br />
 
 <!--
 **Park1016/Park1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +31,9 @@ Here are some ideas to get you started:
 -->
 
 ![Hyunjeong's github stats](https://github-readme-stats.vercel.app/api?username=Park1016&show_icons=true&theme=dracula)
+
+<br />
+<br />
 
 ### 📫 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:guohjp@gmail.com)](mailto:guohjp@gmail.com)
