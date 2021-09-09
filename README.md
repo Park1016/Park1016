@@ -4,14 +4,14 @@
 #### 🌱 I am currently junior developer
 
 ### ⚡ Skills
-[![Html Badge](https://img.shields.io/badge/Html-F7DF1E?logo=Html&logoColor=white)]()
-[![Css Badge](https://img.shields.io/badge/Css-F7DF1E?logo=Css&logoColor=white)]()
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-F7DF1E?logo=HTML5&logoColor=white)]()
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-F7DF1E?logo=Css&logoColor=white)]()
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
 [![React Badge](https://img.shields.io/badge/React-00D1F7?logo=React&logoColor=white)]()
 [![Redux Badge](https://img.shields.io/badge/Redux-00D1F7?logo=Redux&logoColor=white)]()
-[![ReduxThunk Badge](https://img.shields.io/badge/ReduxThunk-00D1F7?logo=ReduxThunk&logoColor=white)]()
+[![Redux Badge](https://img.shields.io/badge/Redux-Thunk-00D1F7?logo=Redux-Thunk&logoColor=white)]()
 [![PostCss Badge](https://img.shields.io/badge/PostCss-00D1F7?logo=PostCss&logoColor=white)]()
-[![StyledComponent Badge](https://img.shields.io/badge/StyledComponent-00D1F7?logo=StyledComponent&logoColor=white)]()
+[![styled-components Badge](https://img.shields.io/badge/styled-components-00D1F7?logo=styled-components&logoColor=white)]()
 [![Firebase Badge](https://img.shields.io/badge/Firebase-F78F0A?logo=Firebase&logoColor=white)]()
 <br />
 
