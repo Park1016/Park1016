@@ -4,27 +4,10 @@
 #### 🔭 I’m working as a Developer for Bogo Information System 
 
 ### ⚡ Skills
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]()
-[![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]() 
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
+http://img.shields.io/badge/-React-FFCA28?style=for-the-badge&logo=React
 <br />
-[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]()
-[![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)]()
-<br />
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]()
-[![Django Badge](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)]()
-[![Flask Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)]()
-[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)]()
-<br />
-[![Amazon_AWS Badge](https://img.shields.io/badge/Amazon+AWS-232F3E?logo=Amazon+AWS&logoColor=white)]()
-<br />
- [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
- [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() 
- [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()
- <br />
- [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() 
- [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() 
- [![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)]() 
+
 
 
 <br />
@@ -50,3 +33,4 @@ Here are some ideas to get you started:
 ![Hyunjeong's github stats](https://github-readme-stats.vercel.app/api?username=Park1016&show_icons=true&theme=dracula)
 
 ### 📫 Contact me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:guohjp@gmail.com)](mailto:guohjp@gmail.com)
