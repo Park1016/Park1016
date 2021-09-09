@@ -4,15 +4,15 @@
 #### 🌱 I am currently junior developer
 
 ### ⚡ Skills
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-F7DF1E?logo=HTML5&logoColor=white)]()
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-F7DF1E?logo=Css&logoColor=white)]()
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)]()
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]()
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
 [![React Badge](https://img.shields.io/badge/React-00D1F7?logo=React&logoColor=white)]()
-[![Redux Badge](https://img.shields.io/badge/Redux-00D1F7?logo=Redux&logoColor=white)]()
-[![Redux Badge](https://img.shields.io/badge/Redux-Thunk-00D1F7?logo=Redux&logoColor=white)]()
-[![PostCss Badge](https://img.shields.io/badge/PostCss-00D1F7?logo=PostCss&logoColor=white)]()
-[![styledomponents Badge](https://img.shields.io/badge/styled-components-00D1F7?logo=styled-components&logoColor=white)]()
-[![Firebase Badge](https://img.shields.io/badge/Firebase-F78F0A?logo=Firebase&logoColor=white)]()
+[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)]()
+[![Redux Badge](https://img.shields.io/badge/Redux-Thunk-a88bd6?logo=Redux&logoColor=white)]()
+[![PostCss Badge](https://img.shields.io/badge/PostCss-DD3A0A?logo=PostCss&logoColor=white)]()
+[![styledomponents Badge](https://img.shields.io/badge/styled-components-DB7093?logo=styled-components&logoColor=white)]()
+[![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white)]()
 <br />
 
 
