@@ -1,11 +1,9 @@
 ### 👋 Hello! World!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark1016&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br />
 
 #### 🌱 I am currently junior developer
 
-<br />
 <br />
 
 ### ⚡ Skills
@@ -19,7 +17,6 @@
 [![styledomponents Badge](https://img.shields.io/badge/styled-components-DB7093?logo=styled-components&logoColor=white)]()<br/>
 [![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white)]()
 
-<br />
 <br />
 
 <!--
@@ -37,7 +34,6 @@ Here are some ideas to get you started:
 
 ![Hyunjeong's github stats](https://github-readme-stats.vercel.app/api?username=Park1016&show_icons=true&theme=dracula)
 
-<br />
 <br />
 
 ### 📫 Contact me
