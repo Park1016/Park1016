@@ -5,7 +5,7 @@
 
 ### ⚡ Skills
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()
-[![React Badge](https://img.shields.io/badge/React-FFCA28?style=for-the-badge&logo=React)]()
+[![React Badge](https://img.shields.io/badge/React-FFCA28?logo=React&logoColor=white)]()
 <br />
 
 
