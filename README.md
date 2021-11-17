@@ -12,7 +12,8 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()<br/>
 [![React Badge](https://img.shields.io/badge/React-00D1F7?logo=React&logoColor=white)]()
 [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white)]()
-[![Redux Badge](https://img.shields.io/badge/Redux-Thunk-a88bd6?logo=Redux&logoColor=white)]()<br/>
+[![Redux Badge](https://img.shields.io/badge/Redux-Thunk-a88bd6?logo=Redux&logoColor=white)]()
+[![Redux Badge](https://img.shields.io/badge/Redux-Toolkit-a88bd6?logo=Redux&logoColor=white)]()<br/>
 [![PostCss Badge](https://img.shields.io/badge/PostCss-DD3A0A?logo=PostCss&logoColor=white)]()
 [![styledomponents Badge](https://img.shields.io/badge/styled-components-DB7093?logo=styled-components&logoColor=white)]()<br/>
 [![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white)]()
